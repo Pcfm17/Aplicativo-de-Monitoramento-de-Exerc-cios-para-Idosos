@@ -4,9 +4,8 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 
 ## Componentes do Grupo
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- Paulo César Fachetti Motta
+- Eric Hideyoshi Kanekiyo
 
 ## Resumo
 
@@ -90,3 +89,4 @@ Apresente uma breve descrição da sua aplicação ou produto.
 <!-- TODOs:
 - Add exemplos
  -->
+
