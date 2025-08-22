@@ -1,4 +1,4 @@
-# **Tema escolhido:** Nome da aplicação ou produto
+# **Tema escolhido:** - Aplicativo de Monitoramento de Exercícios para Idosos
 
 Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário e Front-End (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
@@ -9,7 +9,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 
 ## Resumo
 
-Apresente uma breve descrição da sua aplicação ou produto.
+Aplicação para registro e acompanhamento de atividades físicas leves
 
 ## Introdução
 
@@ -19,15 +19,17 @@ Apresente uma breve descrição da sua aplicação ou produto.
 
 ## Publico Alvo
 
-- Determine o seu público alvo:
+- Idosos, cuidador de idoso, parentes dos idosos   
 
 ### Personas
 
 - Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 
-  - Persona primaira ...
-  - Persona secundária ...
+  - Persona primário:
+      * Isaias, 80 anos:
+      * Cleiton, 76 anos  Maia
+  - Persona secundária:
   - Outras personas ...
 
 ### Mapa de empatia
@@ -89,4 +91,5 @@ Apresente uma breve descrição da sua aplicação ou produto.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
