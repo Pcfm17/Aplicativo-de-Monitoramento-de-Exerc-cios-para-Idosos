@@ -17,15 +17,18 @@ Contextualização do problema: A terceira idade sempre se torna um período com
 Objetivo em uma frase: Ajudar idosos a praticarem exercícios leves com segurança e constância, oferecendo orientação simples e visibilidade do progresso para cuidadores e idosos.
 
 - Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
+Tipo de experiência desejada:
+        ● Calma, clara e acolhedora (linguagem simples e sem jargão). 
+        ● Acessível (alto contraste, fontes grandes, voz/TTS, botões grandes, fluxo linear). 
+        ● Confiável e segura (foco no usuário, controle de dados e alertas). 
+        ● Motivadora (reforços positivos, lembretes gentis, conquistas visíveis). 
+
 
 ## Publico Alvo
 
 Idosos; cuidadoras(es) de idosos; familiares diretos (filhos/netos) e profissionais de saúde que acompanham rotinas.
 
 ### Personas
-
-- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
-- Quais informações sobre o usuário o serviço ou poduto deve guardar?
 
 Observação: dados fictícios, criados para orientar decisões de UX.
 
@@ -65,24 +68,66 @@ conforme lembra.
   - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
   - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
   - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou poduto.
-  - O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou poduto. Quais expectativas o usuário cria sobre o serviço ou poduto?
-  Que tipo de serviço ou poduto mais agrada essa persona?
+  //- O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou poduto. Quais expectativas o usuário cria sobre o serviço ou poduto?
+  // Que tipo de serviço ou poduto mais agrada essa persona?
   - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
-  - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
+  //- Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
+
+Quais informações sobre o usuário o serviço deve guardar?
+        ● Identificação mínima: nome/apelido, faixa etária, contato de acompanhante  (opcional). 
+        ● Preferências e acessibilidade: tamanho da fonte, tema alto contraste, preferências  de áudio/voz, velocidade de fala. 
+        ● Saúde (com consentimento explícito): restrições/contra indicações, medicação, metas. 
+        ● Atividade: exercícios concluídos, duração, frequência, passos (média estipulada). 
+        ● Contexto técnico: tipo de dispositivo, versão do app, permissões de notificações/voz. 
+        ● Consentimentos LGPD: finalidades, compartilhamento com acompanhantes e revogação.
 
 ## Contexto de uso
 
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
-- Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
-- Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
-- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
+Ambientes típicos: casa (sala/quarto), condomínio, parque, UBS/clínica. 
+Condições: possíveis ruídos externos, iluminação variável, internet instável; uso com/sem óculos; mãos trêmulas; telas pequenas. 
+Cenário socioeconômico e cultural: renda fixa; preferência por versão gratuita; apoio de familiares; linguagem simples em Português-BR; confiança construída por clareza e privacidade. 
 
 ## Jornada do usuário
 
-- Criar uma narrativa para o o seu serviço ou poduto com o usuário.
-- Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
-  - Descreva o que acontece ou pode acontecer passo a passo
-  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
+Abaixo, o fluxo principal e alguns fluxos alternativos. O foco é a primeira experiência até o uso recorrente. 
+Fluxo Principal (Isaías):
+    1. Descoberta & Instalação 
+        ○ Gatilho: indicação de médico ou conhecido. 
+        ○ Ações: baixar app, permitir notificações e acessibilidade (fonte grande, contraste, voz). 
+        ○ Resultado: app pronto pra uso, tutorial rápido. 
+    2. Onboarding guiado (3 telas) 
+        ○ Define limitações físicas. 
+        ○ Define exercícios simples. 
+        ○ Escolhe rotinas leves (alongamento, caminhada guiada, mobilidade). 
+        ○ Adiciona contato de emergência e convida cuidador/familiar. 
+    3. Ajuste de Acessibilidade 
+      ○ Teste de áudio/voz, tamanho de texto, botões, ritmo da fala. 
+    4. Primeira Sessão 
+        ○ Lembrete amigável 
+        ○ Mostra o exercício já planejado pro dia 
+        ○ Verifica início e fim 
+        ○ Pergunta como se sentiu em relação ao exercício 
+        ○ Registra a atividade (caso tenha acompanhante envia notificação com relatório gerado) 
+    5. Recompensa 
+        ○ Tela de parabéns; recebe um estímulo visual; dica de hidratação. 
+    6. Rotina Semanal 
+        ○ Lembretes ajustados aos horários do idoso. 
+        ○ Resumo semanal simples: dias ativos, minutos totais, tendência (↑/→/↓). 
+    7. Acompanhamento por Cuidador/Família 
+        ○ App/portal com checklist diário, alertas de ausência e mensagens de incentivo.
+
+Fluxos Alternativos & Exceções:
+        ● Sem Internet: rotina roda offline; sincroniza depois. 
+        ● Interrupção no meio do exercício: app retoma do passo anterior; salva progresso 
+        parcial. 
+        ● Cansaço/Dor: instrução para parar, alongar leve, registrar ocorrência e notificar 
+        cuidador (caso tenha). 
+        ● Dispositivo antigo: app visa atender o máximo possível de versões antigas.
+        
+Encerramento da Jornada:
+        ● Como começa: convite/instalação → onboarding curto → primeira rotina. 
+        ● Como se desenvolve: lembretes gentis → rotinas acompanhadas simples → progresso compartilhado com usuário é possível acompanhante. 
+        ● Como termina (ciclo): resumo semanal e pequenas metas → reforço positivo → ajustes de acessibilidade e metas conforme progressão.
 
 ## Análise de concorrência
 
@@ -116,6 +161,7 @@ conforme lembra.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
