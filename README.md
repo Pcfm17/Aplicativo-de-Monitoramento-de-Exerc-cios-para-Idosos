@@ -132,6 +132,8 @@ Encerramento da Jornada:
 
 ## Coleta de dados
 
+![Questionário](https://form.typeform.com/to/jCofNgL5)
+
 ## Modelo de tarefas
 
 ## Design
@@ -154,6 +156,7 @@ Encerramento da Jornada:
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
