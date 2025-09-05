@@ -18,7 +18,7 @@ Objetivo em uma frase: Ajudar idosos a praticarem exercícios leves com seguran�
 
 - Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
 Tipo de experiência desejada:
-        ● Calma, clara e acolhedora (linguagem simples e sem jargão). 
+        ● Clara e acolhedora (linguagem simples e sem jargão). 
         ● Acessível (alto contraste, fontes grandes, voz/TTS, botões grandes, fluxo linear). 
         ● Confiável e segura (foco no usuário, controle de dados e alertas). 
         ● Motivadora (reforços positivos, lembretes gentis, conquistas visíveis). 
@@ -39,7 +39,7 @@ conforme lembra.
         ● Objetivos: Manter autonomia, melhorar equilíbrio e flexibilidade, seguir recomendações do médico sem complicação.
         ● Dores/Dificuldades: Esquece horários, letras pequenas, medo de fazer errado e se machucar.
         ● Comportamento digital: Usa WhatsApp e YouTube; evita apps complexos.
-        ● Acessibilidade: Prefere voz guiada e botões grandes; alto contraste.
+        ● Acessibilidade: botões grandes; alto contraste.
 
       * Ana, 45 anos (filha):
         ● Contexto: Filha de idoso; trabalha em período integral; mora em outra cidade, mas acompanha os pais à distância.
@@ -57,8 +57,6 @@ conforme lembra.
 
   - Persona secundária:
         * Maria, 24 anos, estagiária em empresa de Gerontologia: precisa ver cumprimento diário, sinais de alerta e checklist simples.
-    
-  - Outras personas ...
 
 ### Mapa de empatia
 
@@ -83,7 +81,7 @@ Quais informações sobre o usuário o serviço deve guardar?
 
 ## Contexto de uso
 
-Ambientes típicos: casa (sala/quarto), condomínio, parque, UBS/clínica. 
+Ambientes típicos: casa (mesas, balcões, cama, armário, cadeiras, quartos, sofá, estantes com objetos variados, geladeira, balcão, filtro de água, abajur, remédio, celular, TV, pia, espelho, privada, box, tapete e lava roupa), parque (academis ao ar livre, escorregador, grama, areia, concreto, criança), UBS/clínica. 
 Condições: possíveis ruídos externos, iluminação variável, internet instável; uso com/sem óculos; mãos trêmulas; telas pequenas. 
 Cenário socioeconômico e cultural: renda fixa; preferência por versão gratuita; apoio de familiares; linguagem simples em Português-BR; confiança construída por clareza e privacidade. 
 
@@ -161,6 +159,7 @@ Encerramento da Jornada:
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
