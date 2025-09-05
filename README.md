@@ -132,8 +132,8 @@ Encerramento da Jornada:
 
 ## Coleta de dados
 
-![Questionário](https://form.typeform.com/to/jCofNgL5)
-![Entrevista](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/Roteiro%20de%20pesquisa%20para%20cuidadores%20de%20idosos.pdf)
+Questionário: <https://form.typeform.com/to/jCofNgL5>
+Entrevista: <https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/Roteiro%20de%20pesquisa%20para%20cuidadores%20de%20idosos.pdf>
 
 ## Modelo de tarefas
 
@@ -157,6 +157,7 @@ Encerramento da Jornada:
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
