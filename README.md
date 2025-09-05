@@ -131,7 +131,7 @@ Encerramento da Jornada:
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
 
 ## Coleta de dados
-
+Esse link do Questionário precisa ser copiado e colado em uma nova aba para funcionar.
 [Questionário:](https://form.typeform.com/to/jCofNgL5)
 
 Entrevista: <https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/Roteiro%20de%20pesquisa%20para%20cuidadores%20de%20idosos.pdf>
@@ -158,6 +158,7 @@ Entrevista: <https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
