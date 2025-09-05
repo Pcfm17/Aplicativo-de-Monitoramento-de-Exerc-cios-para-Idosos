@@ -63,7 +63,7 @@ conforme lembra.
 ![Mapa de empatia](empatia.png)
 
 ![Mapa de empatia](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/WhatsApp%20Image%202025-09-05%20at%2014.16.10.jpeg)
-
+![Mapa de empatia](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/WhatsApp%20Image%202025-09-05%20at%2014.16.24.jpeg)
 Quais informações sobre o usuário o serviço deve guardar?
         ● Identificação mínima: nome/apelido, faixa etária, contato de acompanhante  (opcional). 
         ● Preferências e acessibilidade: tamanho da fonte, tema alto contraste, preferências  de áudio/voz, velocidade de fala. 
@@ -152,6 +152,7 @@ Encerramento da Jornada:
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
