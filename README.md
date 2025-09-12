@@ -67,11 +67,17 @@ Persona Primária:
 
 
 Quais informações sobre o usuário o serviço deve guardar?
+
         ● Identificação mínima: nome/apelido, faixa etária, contato de acompanhante  (opcional). 
-        ● Preferências e acessibilidade: tamanho da fonte, tema alto contraste, preferências  de áudio/voz, velocidade de fala. 
+        
+        ● Preferências e acessibilidade: tamanho da fonte, tema alto contraste, preferências  de áudio/voz, velocidade de fala.
+        
         ● Saúde (com consentimento explícito): restrições/contra indicações, medicação, metas. 
+        
         ● Atividade: exercícios concluídos, duração, frequência, passos (média estipulada). 
+        
         ● Contexto técnico: tipo de dispositivo, versão do app, permissões de notificações/voz. 
+        
         ● Consentimentos LGPD: finalidades, compartilhamento com acompanhantes e revogação.
 
 ## Contexto de uso
@@ -163,6 +169,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
