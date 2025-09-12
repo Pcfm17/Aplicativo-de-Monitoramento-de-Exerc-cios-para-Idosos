@@ -135,7 +135,8 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 [Questionário:](https://form.typeform.com/to/jCofNgL5)
 
 Entrevista: <https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/Roteiro%20de%20pesquisa%20para%20cuidadores%20de%20idosos.pdf>
-
+Esse link do Questionário precisa ser copiado e colado em uma nova aba para funcionar.
+[Entrevista em forma de formulário](https://form.typeform.com/to/lfZFIa7Y).
 ## Modelo de tarefas
 
 ## Design
@@ -158,6 +159,7 @@ Entrevista: <https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
