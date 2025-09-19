@@ -139,7 +139,7 @@ Encerramento da Jornada:
 ## Coleta de dados
 
 **Brainstorming**:
-![Mapa de empatia](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/1000098309.jpg)
+
 
 Esse link do Questionário precisa ser copiado e colado em uma nova aba para funcionar.
 [Questionário:](https://form.typeform.com/to/jCofNgL5)
@@ -169,6 +169,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
