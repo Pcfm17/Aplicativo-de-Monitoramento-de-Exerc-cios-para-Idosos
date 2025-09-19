@@ -149,7 +149,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 [Entrevista em forma de formulário](https://form.typeform.com/to/lfZFIa7Y).
 ## Modelo de tarefas
 
-[Modelo de tarefas:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/Modelo_de_Tarefa.pdf)
+[Modelo de tarefas:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/Modelo_de_Tarefas.pdf)
 
 ## Design
 
@@ -171,6 +171,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
