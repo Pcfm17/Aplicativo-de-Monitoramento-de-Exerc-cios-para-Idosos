@@ -139,7 +139,7 @@ Encerramento da Jornada:
 ## Coleta de dados
 
 **Brainstorming**:
-![Roteiro do Brainstorming](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/Roteiro_Brainstorming_App_Idosos.pdf)
+[Roteiro do Brainstorming:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/Roteiro_Brainstorming_App_Idosos.pdf)
 
 Esse link do Questionário precisa ser copiado e colado em uma nova aba para funcionar.
 [Questionário:](https://form.typeform.com/to/jCofNgL5)
@@ -169,6 +169,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
