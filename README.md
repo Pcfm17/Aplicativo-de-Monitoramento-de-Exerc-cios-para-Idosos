@@ -151,6 +151,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 
 [Modelo de tarefas:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/MT%20-%20GOMS%20(1).pdf)
 
+
 ## Design
 
 - Pense nas características de Affordances do seu serviço ou poduto. 
@@ -172,6 +173,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
