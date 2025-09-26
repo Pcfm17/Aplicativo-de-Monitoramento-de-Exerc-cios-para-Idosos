@@ -153,6 +153,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 
 [HTA - GERAR RELATORIO:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/WhatsApp%20Image%202025-09-26%20at%2014.48.05%20(1).jpeg)
 
+[HTA - CADASTRAR EXERCICIO:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/WhatsApp%20Image%202025-09-26%20at%2014.25.58.jpeg)
 
 ## Design
 
@@ -175,6 +176,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
