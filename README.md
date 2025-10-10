@@ -151,9 +151,13 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 
 [Modelo de tarefas:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/MT%20-%20GOMS%20(1).pdf)
 
-[HTA - GERAR RELATORIO:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/WhatsApp%20Image%202025-09-26%20at%2014.48.05%20(1).jpeg)
+[CTT - exercicio cadastro:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/CTT%20-%20CADASTRAR%20EXERCICIO.jpeg)
 
-[HTA - CADASTRAR EXERCICIO:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/WhatsApp%20Image%202025-09-26%20at%2014.25.58.jpeg)
+[CTT - gerar relatorio:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/CTT%20-%20GERAR%20RELATORIO.jpeg)
+
+[HTA - Cadastrar exercício:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/HTA%20-%20Cadastrar%20exerc%C3%ADcio.jpeg)
+
+[HTA - Gerar Relatorio:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/HTA%20-%20Gerar%20Relatorio.jpeg)
 
 ## Design
 
@@ -176,6 +180,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
