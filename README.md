@@ -151,7 +151,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 
 [Modelo de tarefas:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/MT%20-%20GOMS%20(1).pdf)
 
-[CTT - exercicio cadastro:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/CTT%20-%20CADASTRAR%20EXERCICIO.jpeg)
+[CTT - cadastro exercicio:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/CTT%20-%20CADASTRAR%20EXERCICIO.jpeg)
 
 [CTT - gerar relatorio:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/CTT%20-%20GERAR%20RELATORIO.jpeg)
 
@@ -180,6 +180,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
