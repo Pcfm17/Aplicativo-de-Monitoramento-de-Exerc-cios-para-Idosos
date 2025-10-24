@@ -153,7 +153,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 
 [CTT - cadastro exercicio:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/WhatsApp%20Image%202025-10-24%20at%2015.33.26.jpeg)
 
-[CTT - gerar relatorio:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/CTT%20-%20GERAR%20RELATORIO.jpeg)
+[CTT - gerar relatorio:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/WhatsApp%20Image%202025-10-24%20at%2015.33.39.jpeg)
 
 [HTA - Cadastrar exercício:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/HTA%20-%20Cadastrar%20exerc%C3%ADcio.jpeg)
 
@@ -180,6 +180,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
