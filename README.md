@@ -159,6 +159,8 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 
 [HTA - Gerar Relatorio:](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/HTA%20-%20Gerar%20Relatorio.jpeg)
 
+[molic](https://www.canva.com/design/DAG4ONbyN-0/68V2TkyO9ONV-BqOLNxj3g/edit?utm_content=DAG4ONbyN-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Design
 
 - Pense nas características de Affordances do seu serviço ou poduto. 
@@ -180,6 +182,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
