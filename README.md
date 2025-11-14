@@ -177,6 +177,10 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 
 #### Avaliação heurística
 
+[Avaliação_1](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/Avaliacao%20Heuristica%20-%20Outros1_251114_132725.pdf)
+
+[Avaliação_2](https://github.com/Pcfm17/Aplicativo-de-Monitoramento-de-Exerc-cios-para-Idosos/blob/main/Avaliacao%20Heuristica_Outros2_251114_132806.pdf)
+
 ### Prtotipação em alto nível (React)
 #### Avaliação heurística
 
@@ -185,6 +189,7 @@ Esse link do Questionário precisa ser copiado e colado em uma nova aba para fun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
